@@ -1,0 +1,250 @@
+.lineas1 {
+  height: 500px;
+  width: 500px;
+  background-color: silver;
+  border: 5px solid black;
+
+}
+.lineas2 {
+    position: relative;
+    width: 0;
+	height: 0;
+	border-left: 255px solid transparent;
+	border-right: 255px solid transparent;
+	border-top: 105px solid black;
+}
+.hijoL2{
+    position:relative;
+    top: -110px;
+    left: -250px;
+    width: 0;
+	height: 0;
+	border-left: 250px solid transparent;
+	border-right: 250px solid transparent;
+	border-top: 104px solid silver;
+}
+
+.lineas3{
+    position:relative;
+    top: -598px;
+    left: 19px;
+    height: 480px;
+    width: 468px;
+    background-color: gray;
+    border: 2px solid black;
+}
+
+.lineas4{
+    position: relative;
+    top: -598px;
+    left:19px;
+    width: 0;
+	height: 0;
+	border-left: 236px solid transparent;
+	border-right: 236px solid transparent;
+	border-top: 95px solid black;
+}
+.hijoL4{
+    position:relative;
+    left: -234px;
+    top: -97px;
+    width: 0;
+	height: 0;
+	border-left: 234px solid transparent;
+	border-right: 234px solid transparent;
+	border-top: 94px solid gray;
+}
+
+.cross1{
+    position: relative;
+    top: -1177px;
+    left: 248px;
+    height: 576px;
+    width: 10px;
+    background-color: silver;
+    border: 2px solid black;
+    border-bottom: none;
+    border-top: none;
+}
+
+.cross2{
+    position: relative;
+    top: -1630px;
+    left: 127.5px;
+    height: 231px;
+    width: 10px;
+    background-color: silver;
+    border: 2px solid black;
+    border-bottom: none;
+    border-top: none;
+    transform: rotate(90deg);
+}
+
+.cross3{
+    position: relative;
+    top: -1860px;
+    left: 368.5px;
+    height: 231px;
+    width: 10px;
+    background-color: silver;
+    border: 2px solid black;
+    border-bottom: none;
+    border-top: none;
+    transform: rotate(90deg);
+}
+
+.sword{
+    position: relative;
+    top:-2260px;
+    transform: rotate(38deg);
+    left: 275px;
+    height: 560px;
+    width: 50px;
+    background-color: black;
+    border: 1px solid white;
+
+}
+.tip{
+    position: relative;
+    top: -29.5px;
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 30px solid black;
+}
+
+.guard{
+    position: relative;
+    top: 529px;
+    left: -65px;
+    height: 50px;
+    width: 180px;
+    background-color: burlywood;
+    border: 1px solid black;
+
+}
+
+.handle{
+    position: relative;
+    top: 528px;
+    left: -11px;
+    height: 100px;
+    width: 70px;
+    background-color: burlywood;
+    border: 1px solid black;
+
+}
+
+.det1{
+    position: relative;
+    top: 20px;
+    height: 3px;
+    width: 70px;
+    background-color: black;
+    background-image: linear-gradient(black, burlywood);
+}
+
+.det2{
+    position: relative;
+    top: 40px;
+    height: 3px;
+    width: 70px;
+    background-color: black;
+    background-image: linear-gradient(black, burlywood);
+}
+
+.det3{
+    position: relative;
+    top: 60px;
+    height: 3px;
+    width: 70px;
+    background-color: black;
+    background-image: linear-gradient(black, burlywood);
+}
+
+.det4{
+    position: relative;
+    top: 80px;
+    height: 3px;
+    width: 70px;
+    background-color: black;
+    background-image: linear-gradient(black, burlywood);
+}
+
+.det5{
+    position: relative;
+    top: 20px;
+    height: 3px;
+    width: 70px;
+    background-color: black;
+    background-image: linear-gradient(black, burlywood);
+}
+
+.det6{
+    position: relative;
+    top: 40px;
+    height: 3px;
+    width: 70px;
+    background-color: black;
+    background-image: linear-gradient(black, burlywood);
+}
+
+.det7{
+    position: relative;
+    top: 60px;
+    height: 3px;
+    width: 70px;
+    background-color: black;
+    background-image: linear-gradient(black, burlywood);
+}
+
+.det8{
+    position: relative;
+    top: 80px;
+    height: 3px;
+    width: 70px;
+    background-color: black;
+    background-image: linear-gradient(black, burlywood);
+}
+
+.sword1{
+    position: relative;
+    top:-2822px;
+    transform: rotate(-38deg);
+    left: 183px;
+    height: 560px;
+    width: 50px;
+    background-color: white;
+    border: 1px solid black;
+
+}
+.tip1{
+    position: relative;
+    top: -29.5px;
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 30px solid white;
+}
+
+.guard1{
+    position: relative;
+    top: 529px;
+    left: -65px;
+    height: 50px;
+    width: 180px;
+    background-color: burlywood;
+    border: 1px solid black;
+}
+
+.handle1{
+    position: relative;
+    top: 528px;
+    left: -11px;
+    height: 100px;
+    width: 70px;
+    background-color: burlywood;
+    border: 1px solid black;
+}
